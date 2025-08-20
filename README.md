@@ -1,7 +1,7 @@
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zoyamunawer/zoyamunawer/main/banner.jpg" alt="Zoya Munawwar Banner"/>
+  <img src="https://raw.githubusercontent.com/zoyamunawer/zoyamunawer/main/image/banner.jpg" alt="Zoya Munawwar Banner"/>
 </p>
 
 <h1 align="center">Hi, I'm Zoya Munawwar Minhas 👋</h1>
