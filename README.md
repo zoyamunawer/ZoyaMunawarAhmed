@@ -1,4 +1,4 @@
-
+![MasterHead](https://github.com/zoyamunawar/ZoyaMunawarAhmed/blob/main/images/banner.jpg)
 <!-- Profile Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/zoyamunawer/ZoyaMunawarAhmed/main/image/banner.jpg" alt="Zoya Munawwar Banner"/>
@@ -19,6 +19,23 @@ Strong communication, documentation, and teamwork skills.
 🔗 [LinkedIn](https://www.linkedin.com/in/zoya-munawwar1122) | [GitHub](https://github.com/zoyamunawer)  
 
 ---
+<br clear="both">
+
+<h2 align="center">📖 Best Quranic Duas & Motivational Ayahs</h2>
+
+
+
+<br clear="both">
+
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+  <img height="250" src="https://github.com/SyedMuhammadArsalanShah/SyedMuhammadArsalanShah/blob/master/images/i2.jpg" alt="Dua Image 1" style="margin: 0 20px;" />
+  <img height="250" src="https://github.com/SyedMuhammadArsalanShah/SyedMuhammadArsalanShah/blob/master/images/i1.jpg" alt="Dua Image 2" style="margin: 0 20px;" />
+  <img height="250" src="https://github.com/SyedMuhammadArsalanShah/SyedMuhammadArsalanShah/blob/master/images/i3.jpg" alt="Dua Image 3" style="margin: 0 20px;" />
+</div>
+
+<br clear="both">
+
+
 
 ### 🛠 Professional Skills
 - **Data Analytics:** Data Cleaning, KPI Tracking, Descriptive Analytics  
