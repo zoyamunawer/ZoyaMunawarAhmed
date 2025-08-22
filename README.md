@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/zoyamunawar/ZoyaMunawarAhmed/blob/main/images/banner.jpg)
+![MasterHead](https://github.com/zoyamunawar/ZoyaMunawarAhmed/blob/main/images/banner.jpg" alt="Banner JPG")
 <!-- Profile Banner -->
 <br clear="both">
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 
-<h3 align="center">Data Analyst | Web Developer | Lifelong Learner</h3>
+
 
 ---
 
