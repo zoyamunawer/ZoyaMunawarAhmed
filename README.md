@@ -6,7 +6,10 @@
 </p>
 
 <h1 align="center">Hi, I'm Zoya Munawwar Minhas 👋</h1>
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><title>Zoya Slider</title><style>body{font-family:Arial,Helvetica,sans-serif;display:flex;align-items:center;justify-content:center;height:100vh;margin:0}h3{font-size:24px;margin:0}h3 .cursor{color:#F78D1E;border-right:2px solid #F78D1E;padding-right:.25rem;animation:blink .8s step-end infinite}h3 .cursor::after{content:"Data Analyst";animation:swap 9s steps(1,end) infinite}@keyframes swap{0%,33%{content:"Data Analyst"}34%,66%{content:"Web Developer"}67%,100%{content:"Lifelong Learner"}}@keyframes blink{50%{border-color:transparent}}</style></head><body><h3><span class="cursor"></span></h3></body></html>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78D1E&center=true&vCenter=true&width=500&lines=Data+Analyst;Web+Developer;Lifelong+Learner" alt="Typing SVG" />
+</p>
+
 
 <h3 align="center">Data Analyst | Web Developer | Lifelong Learner</h3>
 
