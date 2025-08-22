@@ -1,7 +1,8 @@
 ![MasterHead](https://github.com/zoyamunawar/ZoyaMunawarAhmed/blob/main/images/banner.jpg)
 <!-- Profile Banner -->
+<br clear="both">
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zoyamunawer/ZoyaMunawarAhmed/main/image/banner.jpg" alt="Zoya Munawwar Banner"/>
+   <img src="https://visitor-badge.laobi.icu/badge?page_id=zoyamunawar.ZoyaMunawarAhmed&"  />
 </p>
 
 <h1 align="center">Hi, I'm Zoya Munawwar Minhas 👋</h1>
